@@ -1,0 +1,15 @@
+/* carousel.css */
+.carousel-arrow-prev,
+.carousel-arrow-next {
+  background-color: #387F39; /* Primary brand color */
+  color: #f5f5f5; /* Light color */
+  border-radius: 50%;
+  padding: 0.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.carousel-arrow-prev:hover,
+.carousel-arrow-next:hover {
+  background-color: #BEDC74; /* Secondary brand color */
+  color: #1a1a1a; /* Dark color */
+}
