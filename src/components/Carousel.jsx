@@ -1,7 +1,7 @@
 import React from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css'; // Import the carousel styles
-import '../styles/carousel.css'; // Import your custom CSS file
+import '../styles/Carousel.css'; // Import your custom CSS file
 
 // Import images directly
 import image1 from '../assets/image1.jpg';
