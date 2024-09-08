@@ -1,0 +1,17 @@
+[build]
+  command = "npm run build"   # Command to build your project
+  publish = "dist"            # Directory where the build output is located
+
+# Redirect all routes to index.html for Single Page Applications (SPA)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Add security headers for enhanced security
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
