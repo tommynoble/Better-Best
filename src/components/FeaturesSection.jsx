@@ -2,7 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom'; 
 import featureImage from '../assets/feature-image.jpg'; 
 import featureImage2 from '../assets/feature-image2.jpg'; 
-import Banner from '../components/banner'; // Import the Banner component
+
+// import Banner from '../components/Banner'; // Import the Banner component
 
 const FeaturesSection = () => {
   return (
