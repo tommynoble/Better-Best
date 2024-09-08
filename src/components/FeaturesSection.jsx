@@ -9,7 +9,7 @@ const FeaturesSection = () => {
   return (
     <>
       {/* Banner Section at the top */}
-      <Banner />
+      {/* <Banner /> */}
 
       {/* First Feature Section */}
       <div className="py-12 bg-light-yellow ">
