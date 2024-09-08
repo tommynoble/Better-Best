@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [
     react(),
     sitemap({
-      hostname: 'https://betterandbesthcare.com',
+      hostname: 'https://betterandbesthcare.com', // Replace with your actual domain
       robotsTxt: false, // Disable robots.txt generation
     }),
   ],
