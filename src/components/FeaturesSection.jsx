@@ -13,7 +13,7 @@ const FeaturesSection = () => {
 
       {/* First Feature Section */}
       <div className="py-12 bg-light-yellow ">
-        <div className="container max-w-1280 mx-auto flex flex-col md:flex-row items-center p-4 max-sm:m-4">
+        <div className="container max-w-1280 mx-auto flex flex-col md:flex-row items-center p-4 max-sm:p-4">
           <div className="md:w-1/2 mb-6 md:mb-0">
             <img src={featureImage} alt="Feature" className="w-full h-auto rounded-md shadow-md mb-8 mt-10" />
           </div>
@@ -40,12 +40,11 @@ const FeaturesSection = () => {
 
       {/* Second Feature Section */}
       <div className="py-12 bg-white">
-        <div className="container max-w-1280 mx-auto flex flex-col md:flex-row items-center p-4 mb-8 mt-4 max-sm:m-4">
+        <div className="container max-w-1280 mx-auto flex flex-col md:flex-row items-center p-4 mb-8 mt-4 max-sm:p-4">
           <div className="md:w-1/2 md:pr-12 order-2 md:order-1">
             <h1 className="text-4xl font-bold text-primary mb-4">Dedicated Staff</h1>
             <p className="text-lg text-dark mb-6">
-              Explore our unique features that set us apart in the industry. We combine innovation with expertise to deliver exceptional solutions tailored to your needs, ensuring your business thrives in a competitive market.
-            </p>
+            Our staff goes above and beyond to ensure exceptional care and service. With a commitment to excellence and personalized attention, we provide solutions that not only meet your needs but exceed expectations, helping you succeed in every aspect.            </p>
             <div className="flex space-x-4">
               <Link to="/apply-for-care">
                 <button className="bg-primary text-white py-2 px-6 rounded-lg font-semibold hover:bg-primary-dark transform hover:scale-105 active:scale-95 transition duration-300">

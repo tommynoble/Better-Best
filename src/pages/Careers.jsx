@@ -23,15 +23,15 @@ const CareersPage = () => {
       </Container>
 
       <Container>
-        <div className="container mx-auto py-10 max-sm:pd-6">
+        <div className="container mx-auto py-10 max-sm:pd-6  max-sm:p-8 ">
           <div className="flex flex-wrap">
-            <h2 className="w-full text-primary text-3xl md:text-4xl font-bold text-center">Current Openings</h2>
+            <h2 className="w-full text-primary text-3xl md:text-4xl font-bold text-center max-sm:text-3xl ">Current Openings</h2>
            
           </div>
           <div className="grid grid-cols-6 gap-8 mt-4 sm:pd-6 ">
             <div className="text-center col-start-2 col-span-4">
-              <p className="text-gray-700 text-lg leading-8">
-                Be part of something amazing! Together, we create lasting change and make a difference every day. Your talents and passion are what drive our success—let's build the future together.
+              <p className="text-gray-700 text-lg leading-8 max-sm:text-md">
+                Be part of something amazing! Together, we create lasting change and make a difference every day. 
               </p>
             </div>
           </div>

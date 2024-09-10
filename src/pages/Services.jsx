@@ -35,9 +35,9 @@ const ServicesPage = () => {
 
         {/* Main Content Area for Services */}
         <div className="container max-w-1280 mx-auto p-4 mt-8">
-          <h1 className="text-5xl font-extrabold text-primary text-center mb-4">Our Services</h1>
+          <h1 className="text-5xl font-extrabold text-primary text-center max-sm:text-4xl  mb-4">Our Services</h1>
           <p className="text-xl text-gray-600 text-center mb-12 max-w-2xl mx-auto">
-            Discover a wide range of services tailored to meet your unique needs. We’re committed to providing solutions that help you achieve your goals.
+          Explore a comprehensive range of homecare services designed to meet your individual needs. 
           </p>
         </div>
 
@@ -46,10 +46,9 @@ const ServicesPage = () => {
 
         {/* Medical Services */}
         <div className="container max-w-1280 mx-auto p-8 mt-16 mb-12">
-          <h2 className="text-4xl font-bold text-primary mb-4">Medical Services</h2>
+          <h2 className="text-4xl font-bold text-primary max-sm:text-3xl mb-4">Medical Services</h2>
           <p className="text-lg text-gray-700 mb-8 leading-relaxed">
-            Our comprehensive medical services ensure you receive the best care possible. From transportation to skilled nursing, we cover all your healthcare needs.
-          </p>
+          We provide a full spectrum of medical services to ensure you receive the highest quality care. From reliable transportation to expert skilled nursing, we address all your healthcare needs with precision and dedication.          </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Skilled Nursing Care */}
             <div className="p-6 border border-primary-light rounded-lg shadow-lg hover:bg-primary-light transition duration-300 ease-in-out transform hover:scale-105 cursor-pointer">
@@ -103,10 +102,9 @@ const ServicesPage = () => {
           </div>
 
           {/* Non-Medical Services */}
-          <h2 className="text-4xl font-bold text-primary mb-4 mt-16">Non-Medical Services</h2>
+          <h2 className="text-4xl font-bold text-primary mb-4 max-sm:text-3xl mt-16">Non-Medical Services</h2>
           <p className="text-lg text-gray-700 mb-8 leading-relaxed">
-            Our non-medical care services are designed to enhance the quality of life by providing assistance with daily activities.
-          </p>
+          Our non-medical care services are thoughtfully designed to improve quality of life by offering assistance with daily activities and promoting independence.          </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Companion Care */}

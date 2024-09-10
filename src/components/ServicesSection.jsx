@@ -8,8 +8,8 @@ const ServicesSection = () => {
   return (
     <Container> {/* Wrap everything in the Container component */}
       {/* Services Section */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 mt-4 mb-2">
-  <div className="w-full h-60 border-2 border-primary rounded-lg flex flex-col items-center justify-center p-4 mb-4 hover:bg-primary hover:bg-opacity-30 hover:shadow-lg transition duration-300 ease-in-out transform hover:scale-105 cursor-pointer">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 mt-4 mb-2 max-sm:p-6  ">
+  <div className="w-full h-60 border-2 border-primary rounded-lg flex flex-col items-center justify-center p-4 mb-4 hover:bg-opacity-30 hover:shadow-lg transition duration-300 ease-in-out transform hover:scale-105 cursor-pointer">
     <FontAwesomeIcon icon={faUserShield} className="text-primary text-5xl mb-2 transition-colors duration-300 ease-in-out" />
     <p className="text-dark font-bold mt-2 transition-colors duration-300 ease-in-out">Skilled Nursing</p>
   </div>
