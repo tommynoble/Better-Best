@@ -30,7 +30,7 @@ const About = () => {
       <Container>
         <SiteMap />
         <div className="mb-7 max-sm:m-10">
-          <h1 className="text-5xl font-bold text-primary mb-4 max-sm:text-4xl">About Us</h1>
+          <h1 className="text-5xl font-bold text-primary mb-4 max-sm:text-4xl  ">About Us</h1>
           <p className="mt-4 text-lg text-dark leading-relaxed">
             For over 10 years, The Better Best has proudly served the DMV and surrounding areas, delivering high-quality services tailored to the diverse needs of our clients. Our dedicated team of skilled professionals is committed to providing personalized 
             in-home health care, ensuring you or your loved ones can live comfortably and independently.

@@ -34,7 +34,7 @@ const Home = () => {
       <Container>
         {/* Welcome Section */}
         <div className="container max-w-1280 mx-auto p-4 mt-8 text-center">
-          <h1 className="text-4xl font-bold text-primary">Compassionate Home, Right at Home.</h1>
+          <h1 className="text-3xl font-bold text-primary   ">Compassionate Home, Right at Home.</h1>
           <p className="mt-4 text-xl text-gray-600">
           
 Whether you need assistance with daily activities, specialized medical care, or compassionate companionship,<br></br> we are committed to providing unwavering support at every stage of your journey.

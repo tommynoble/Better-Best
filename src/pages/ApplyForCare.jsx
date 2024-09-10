@@ -61,7 +61,7 @@ const ApplyForCare = () => {
       <Navbar />
       <Container>
         <SiteMap />
-        <div className="container mx-auto py-24  max-sm:p-4">
+        <div className="container mx-auto py-12  max-sm:p-4">
           <div className="container max-w-1280 mx-auto p-4 mt-0">
             <h1 className="text-5xl  max-sm:text-4xl font-extrabold text-primary text-center mb-6">Apply for Care</h1>
             <p className="text-xl text-gray-600 text-center mb-12 max-w-2xl mx-auto">
