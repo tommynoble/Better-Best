@@ -32,8 +32,10 @@ const About = () => {
         <div className="mb-7 max-sm:m-10">
           <h1 className="text-5xl font-bold text-primary mb-4 max-sm:text-4xl  ">About Us</h1>
           <p className="mt-4 text-lg text-dark leading-relaxed">
-            For over 10 years, The Better Best has proudly served the DMV and surrounding areas, delivering high-quality services tailored to the diverse needs of our clients. Our dedicated team of skilled professionals is committed to providing personalized 
-            in-home health care, ensuring you or your loved ones can live comfortably and independently.
+        
+            For over 6 years, Better and Best Home care has proudly served the following counties in Virginia, Fredericksburg County, Spotsylvania County, Stafford County, Prince William County, 
+            King George County, More Service Areas, Culpeper County, Caroline County, Orange County, Fairfax County, delivering high-quality services tailored to the diverse needs of our clients. <br></br>
+         
           </p>
         </div>
       </Container>
@@ -45,11 +47,11 @@ const About = () => {
             <div className="col-span-6 lg:col-span-3">
               <h4 className="font-bold text-4xl pb-4 text-primary max-sm:text-3xl ">Our Vision</h4>
               <p className="text-lg pb-16 text-dark leading-8 lg:pr-12 border-b border-dark-green mb-16">
-              Our vision is to be the foremost provider of compassionate, personalized in-home healthcare, enabling individuals to live with dignity, independence, and the highest quality of life within the comfort of their own homes. We are committed to setting the standard for excellence by continuously innovating and evolving to meet the ever-changing needs of our clients and the communities we serve.
+              Our vision is to be the leading provider of compassionate, personalized in-home healthcare, empowering individuals to live with dignity, independence, and the highest standard of care in the comfort of their homes. We are dedicated to setting the benchmark for excellence through continuous innovation and adapting to the evolving needs of our clients and the communities we serve.
               </p>
               <h4 className="font-bold text-4xl pb-4 text-primary max-sm:text-3xl ">Our Mission</h4>
               <p className="text-lg text-dark leading-8 lg:pr-12 pb-8">
-                Our mission is to enhance the quality of life for our clients by delivering compassionate, reliable, and expert care right where it matters most.
+              Our mission is to enhance the quality of life for our clients by delivering compassionate, reliable, and expert care where it matters most in the comfort of their own homes.
               </p>
             </div>
             {/* Image Section */}
@@ -66,7 +68,7 @@ const About = () => {
           <h2 className="text-4xl font-bold text-primary mb-12 text-center ">Meet Our Team</h2>
           <div className="grid lg:grid-cols-3 gap-12 text-center">
             <div className="team-member">
-              <p className="text-2xl font-semibold text-primary mb-2">Bs HA, Ms Joseph Obeng NM</p>
+              <p className="text-2xl font-semibold text-primary mb-2">Joseph Obeng  [ BsHA, MsNM ]</p>
               <p className="text-black-500 mb-4">Administrator</p>
               <hr className="border-dark-green mb-4"/>
               <p className="text-gray-700">A highly experienced administrator overseeing daily operations and ensuring top-tier care is delivered to our clients.</p>

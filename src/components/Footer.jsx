@@ -17,8 +17,11 @@ const Footer = () => {
             <h2 className="text-2xl font-semibold mb-4 text-deep-yellow">Contact</h2>
             <p className="text-white pb-3 leading-7 font-medium">
               City of Fredericksburg Offfice
-              1976 William Street <br />
+              1976 William st, Fredericksburg VA 22401 <br />
               Fredericksburg, VA 44201<br></br>
+              <hr class="border-t-1 border-gray-300 my-4 w-1/2" />
+
+              
               T: (540) 373-3955 <br></br>
               F: (540) 373-3956 <br></br>
               W: www.betterandbesthcare.com

@@ -43,7 +43,7 @@ const CareersPage = () => {
                 Provide companionship and emotional support to clients, assist with daily activities, and help maintain a positive living environment.
               </p>
               <p className="text-center text-gray-600 mt-2 font-semibold">
-                Location: Fredericksburg, VA<br />
+                Location: All services areas<br />
                 Type: Full-Time
               </p>
             </div>
@@ -55,8 +55,8 @@ const CareersPage = () => {
                 Assist clients with personal hygiene, grooming, and other personal care tasks to ensure their comfort and well-being.
               </p>
               <p className="text-center text-gray-600 mt-2 font-semibold">
-                Location: Stafford, VA<br />
-                Type: Part-Time
+                Location: All services areas<br />
+                Type: Full-Time
               </p>
             </div>
 
@@ -67,7 +67,7 @@ const CareersPage = () => {
                 Deliver specialized nursing care to clients with medical needs, including medication administration, wound care, and monitoring of vital signs.
               </p>
               <p className="text-center text-gray-600 mt-2 font-semibold">
-                Location: Fredericksburg, VA<br />
+                Location: All services areas<br />
                 Type: Full-Time
               </p>
             </div>
