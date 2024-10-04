@@ -66,7 +66,7 @@ const About = () => {
       <div className="bg-white py-10 max-sm:m-10 ">
         <Container>
           <h2 className="text-4xl font-bold text-primary mb-12 text-center ">Meet Our Team</h2>
-          <div className="grid lg:grid-cols-3 gap-12 text-center">
+          <div className="grid lg:grid-cols-3 gap-9 text-center">
             <div className="team-member">
               <p className="text-2xl font-semibold text-primary mb-2">Joseph Obeng  [ BsHA, MsNM ]</p>
               <p className="text-black-500 mb-4">Administrator</p>
@@ -82,28 +82,28 @@ const About = () => {
             </div>
 
             <div className="team-member">
-              <p className="text-2xl font-semibold text-primary mb-2">Doris Adavor [ RN ]</p>
+              <p className="text-2xl font-semibold text-primary mb-2">Doris Adavor [ BSN,RN ]</p>
               <p className="text-black-300 mb-4">Director Of Operations</p>
               <hr className="border-dark-green mb-4"/>
               <p className="text-gray-700">Bringing expertise to our operational processes, ensuring everything runs smoothly and efficiently for our clients.</p>
             </div>
 
             <div className="team-member">
-              <p className="text-2xl font-semibold text-primary mb-2">Afia Obeng [ RN ]</p>
+              <p className="text-2xl font-semibold text-primary mb-2">Afia Obeng [ BSN, RN ]</p>
               <p className="text-black-300 mb-4">Nursing / Office Manager</p>
               <hr className="border-dark-green mb-4"/>
               <p className="text-gray-700">A dedicated professional balancing nursing duties and office management to deliver quality service.</p>
             </div>
 
             <div className="team-member">
-              <p className="text-2xl font-semibold text-primary mb-2">Mariam Mubangu [ CNA / DSP ]</p>
+              <p className="text-2xl font-semibold text-primary mb-2">Mariam Mubangu [ BSN, CNA, DSP ]</p>
               <p className="text-black-300 mb-4">Field Nurse</p>
               <hr className="border-dark-green mb-4"/>
               <p className="text-gray-700">A compassionate field nurse providing hands-on care to clients and ensuring their needs are met with professionalism.</p>
             </div>
 
             <div className="team-member">
-              <p className="text-2xl font-semibold text-primary mb-2">Christina Timme [ CNA / DSP ]</p>
+              <p className="text-2xl font-semibold text-primary mb-2">Christina Timme [ BSN, CNA, DSP ]</p>
               <p className="text-black-300 mb-4">Field Nurse</p>
               <hr className="border-dark-green mb-4"/>
               <p className="text-gray-700">Delivering high-quality care in the field, ensuring client satisfaction and well-being at all times.</p>
